@@ -23,11 +23,7 @@ Work Preferences
 I am actively seeking opportunities for full-time or part-time remote positions as a React JS developer. Working with a company that values collaboration, creativity, and innovation is my priority. If you have any exciting React JS projects or positions available, I'm eager to contribute my skills.
 Projects
 
-Here are some of the projects I have worked on:
 
-    Project 1: Link to Project 1
-    Project 2: Link to Project 2
-    Project 3: Link to Project 3
 
 Learning Goals
 
