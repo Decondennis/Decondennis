@@ -10,6 +10,7 @@ About Me
 Summary
 
 With a background in electrical and electronics engineering, I found my true calling in web development, especially in the exciting world of React JS. I take great pride in creating robust and dynamic web applications that provide an excellent user experience.
+
 Skillset
 
     Front-end: React JS, HTML, CSS, JavaScript, Redux (currently learning)
